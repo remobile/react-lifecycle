@@ -1,0 +1,25 @@
+{
+    "name": "@remobile/react-lifecycle",
+        "version": "1.0.0",
+        "description": "A lifecycle for react and react-native",
+        "main": "index.js",
+        "author": {
+            "name": "YunJiang.Fang",
+            "email": "42550564@qq.com"
+        },
+        "license": "MIT",
+        "keywords": [
+            "react",
+            "react-native",
+            "react-component",
+            "lifecycle"
+        ],
+        "homepage": "https://github.com/remobile/react-lifecycle",
+        "bugs": {
+            "url": "https://github.com/remobile/react-lifecycle/issues"
+        },
+        "repository": {
+            "type": "git",
+            "url": "git://github.com/remobile/react-lifecycle.git"
+        }
+}
